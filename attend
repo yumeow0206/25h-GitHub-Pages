@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+  <title>午夜出席表</title>  
+  <meta name="description" content="戰意DI - 午夜聯盟出席表">
+  <meta name="keywords" content="">
+</head>
+
+<frameset rows="100%,*" border="0">
+  <frame src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyUtmXLmhDBELZsCQXLPoe4MZ7QLVZXA3L-NI6X1-CQb19bHt3Id0RQyQG1el6eyWBFr8XGbGZUoW3/pubhtml?gid=1706212480&chrome=false&single=true&widget=false&headers=false" frameborder="0" />
+</frameset>
+
+</html>
